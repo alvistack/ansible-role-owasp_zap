@@ -18,8 +18,7 @@
   remote_user: root
   become: true
   tasks:
-    - name: owasp-zap --version
-      command: owasp-zap --version
+    - name: owasp-zap -version
+      command: owasp-zap -version
       register: result
-      changed_when: false
-      failed_when: "'OWASP ZAP' not in result.stdout"
+      changed_when: result is not succeeded
