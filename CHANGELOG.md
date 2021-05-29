@@ -2,7 +2,7 @@
 
 ## 4.8.0 - TBC
 
-## 4.7.0 - 2021-05.28
+## 4.7.0 - 2021-05-28
 
   - Ininitial release for Ansible 4.0 or higher
   - This role was designed for:
