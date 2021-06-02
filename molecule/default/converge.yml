@@ -20,5 +20,10 @@
   tasks:
     - name: include role
       include_role:
-        name: zap
-      tags: zap
+        name: openjdk
+      tags: openjdk
+
+    - name: include role
+      include_role:
+        name: owasp_zap
+      tags: owasp_zap

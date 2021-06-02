@@ -1,9 +1,9 @@
 # Ansible Role for OWASP ZAP
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-zap/master)](https://gitlab.com/alvistack/ansible-role-zap/-/pipelines)
-[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-zap.svg)](https://github.com/alvistack/ansible-role-zap/releases)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-zap.svg)](https://github.com/alvistack/ansible-role-zap/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.zap-blue.svg)](https://galaxy.ansible.com/alvistack/zap)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-owasp_zap/master)](https://gitlab.com/alvistack/ansible-role-owasp_zap/-/pipelines)
+[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-owasp_zap.svg)](https://github.com/alvistack/ansible-role-owasp_zap/releases)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-owasp_zap.svg)](https://github.com/alvistack/ansible-role-owasp_zap/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.owasp_zap-blue.svg)](https://galaxy.ansible.com/alvistack/owasp_zap)
 
 Ansible Role for OWASP ZAP Installation.
 
