@@ -1,6 +1,10 @@
 # Ansible Role for OWASP ZAP
 
-## 4.8.0 - TBC
+## 5.1.0 - TBC
+
+### Major Changes
+
+## 5.0.0 - 2021-06-02
 
 ## 4.7.0 - 2021-05-28
 
