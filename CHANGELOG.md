@@ -8,8 +8,6 @@
 
 ## 5.0.0 - 2021-06-02
 
-## 4.7.0 - 2021-05-28
-
   - Ininitial release for Ansible 4.0 or higher
   - This role was designed for:
       - Ubuntu 18.04, 20.04, 20.10, 21.04
