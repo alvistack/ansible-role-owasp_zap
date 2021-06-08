@@ -4,11 +4,10 @@
 
 ### Major Changes
 
+  - Support Debian 11
   - Support openSUSE Leap 15.3
 
 ## 5.0.0 - 2021-06-02
-
-## 4.7.0 - 2021-05-28
 
   - Ininitial release for Ansible 4.0 or higher
   - This role was designed for:
