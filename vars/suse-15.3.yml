@@ -16,7 +16,7 @@
 
 _zypper_repository:
   - name: "home:cabelo"
-    repo: "http://download.opensuse.org/repositories/home:cabelo/openSUSE_Leap_15"
+    repo: "http://download.opensuse.org/repositories/home:cabelo/openSUSE_Leap_15.2"
     state: "present"
 
 _zypper:
