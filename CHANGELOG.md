@@ -1,10 +1,14 @@
 # Ansible Role for OWASP ZAP
 
-## 5.1.0 - TBC
+## 5.2.0 - TBC
 
 ### Major Changes
 
-  - Upgrade minimal Ansible community package support to 4.1.0
+## 5.1.0 - 2021-07-18
+
+### Major Changes
+
+  - Upgrade minimal Ansible community package support to 4.2.0
   - Support Debian 11
   - Support openSUSE Leap 15.3
 
