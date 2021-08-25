@@ -16,7 +16,7 @@
 
 _rpm_key:
   - key: "https://download.opensuse.org/repositories/home:/cabelo/CentOS_7/repodata/repomd.xml.key"
-    fingerprint: "0452F2059447B9C79EAC98459DE5F05C7DC19DAA"
+    fingerprint: "1553C74FC763CE08361E8F0918B6CC30405F642D"
     state: "present"
 
 _yum_repository:

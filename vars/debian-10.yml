@@ -16,7 +16,7 @@
 
 _apt_key:
   - url: "http://download.opensuse.org/repositories/home:cabelo/Debian_10/Release.key"
-    id: "0452F2059447B9C79EAC98459DE5F05C7DC19DAA"
+    id: "1553C74FC763CE08361E8F0918B6CC30405F642D"
     state: "present"
 
 _apt_repository:
