@@ -15,12 +15,14 @@
 # limitations under the License.
 
 _apt_key:
-  - url: "http://download.opensuse.org/repositories/home:cabelo/xUbuntu_20.04/Release.key"
+  - keyring: "/etc/apt/trusted.gpg.d/home_cabelo.gpg"
+    url: "http://download.opensuse.org/repositories/home:cabelo/xUbuntu_20.04/Release.key"
     id: "1553C74FC763CE08361E8F0918B6CC30405F642D"
     state: "present"
 
 _apt_repository:
-  - repo: "deb http://download.opensuse.org/repositories/home:/cabelo/xUbuntu_20.04 /"
+  - filename: "home:cabelo"
+    repo: "deb http://download.opensuse.org/repositories/home:/cabelo/xUbuntu_20.04 /"
     state: "present"
 
 _apt:
