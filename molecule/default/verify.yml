@@ -19,6 +19,6 @@
   become: true
   tasks:
     - name: owasp-zap -version
-      command: owasp-zap -version
+      ansible.builtin.command: owasp-zap -version
       register: result
       changed_when: result is not succeeded
