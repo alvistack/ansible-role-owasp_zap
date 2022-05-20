@@ -15,7 +15,7 @@
 # limitations under the License.
 
 _rpm_key:
-  - key: "https://download.opensuse.org/repositories/home:/cabelo/Fedora_35/repodata/repomd.xml.key"
+  - key: "https://downloadcontent.opensuse.org/repositories/home:/cabelo/Fedora_35/repodata/repomd.xml.key"
     fingerprint: "1553C74FC763CE08361E8F0918B6CC30405F642D"
     state: "present"
 
@@ -23,12 +23,12 @@ _yum_repository:
   - file: "home:cabelo"
     name: "home_cabelo"
     description: "Packages of the cabelo (Fedora_35)"
-    baseurl: "https://download.opensuse.org/repositories/home:/cabelo/Fedora_35"
+    baseurl: "https://downloadcontent.opensuse.org/repositories/home:/cabelo/Fedora_35"
     enabled: true
     priority: "2"
     module_hotfixes: true
     gpgcheck: true
-    gpgkey: "https://download.opensuse.org/repositories/home:/cabelo/Fedora_35/repodata/repomd.xml.key"
+    gpgkey: "https://downloadcontent.opensuse.org/repositories/home:/cabelo/Fedora_35/repodata/repomd.xml.key"
     state: "present"
 
 _yum:
