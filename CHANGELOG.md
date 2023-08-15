@@ -4,6 +4,7 @@
 
 ### Major Changes
 
+-   Support Ansible community package 8.3.0
 -   Simplify and unify with flatpak
 
 ## 8.2.0 - 2023-07-24
