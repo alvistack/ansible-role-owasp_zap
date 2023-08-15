@@ -52,3 +52,16 @@
       paths:
         - "."
       skip: true
+
+- name: flatpak remote-add
+  community.general.flatpak_remote:
+    name: "{{ item.name }}"
+    flatpakrepo_url: "{{ item.flatpakrepo_url }}"
+    state: "{{ item.state }}"
+  loop: "{{ _flatpak_remote }}"
+
+- name: flatpak install
+  community.general.flatpak:
+    name: "{{ item.name }}"
+    state: "{{ item.state }}"
+  loop: "{{ _flatpak }}"

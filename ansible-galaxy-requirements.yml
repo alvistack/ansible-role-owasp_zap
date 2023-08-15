@@ -24,6 +24,6 @@ collections:
     version: ">=1.7.0,<2.0.0"
 
 roles:
-  - name: alvistack.openjdk
-    src: https://github.com/alvistack/ansible-role-openjdk
+  - name: alvistack.flatpak
+    src: https://github.com/alvistack/ansible-role-flatpak
     version: develop
