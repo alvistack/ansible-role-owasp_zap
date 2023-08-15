@@ -19,8 +19,8 @@
   remote_user: root
   become: true
   tasks:
-    - name: owasp-zap -version
+    - name: flatpak info org.zaproxy.ZAP
       ansible.builtin.command:
-        cmd: owasp-zap -version
+        cmd: flatpak info org.zaproxy.ZAP
       register: result
       changed_when: result is not succeeded
