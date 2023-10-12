@@ -1,41 +1,32 @@
 # Ansible Role for OWASP ZAP
 
-## 8.5.0 - TBC
+## 9.0.0 - TBC
 
+## 8.5.0 - 2023-10-12
+
+-   Support Ansible community package 8.5.0
 -   Support Fedora 39
 -   Support Ubuntu 23.10
 
-### Major Changes
-
 ## 8.4.0 - 2023-09-14
-
-### Major Changes
 
 -   Support Ansible community package 8.4.0
 
 ## 8.3.0 - 2023-08-15
-
-### Major Changes
 
 -   Support Ansible community package 8.3.0
 -   Simplify and unify with flatpak
 
 ## 8.2.0 - 2023-07-24
 
-### Major Changes
-
 -   Support Ansible community package 8.2.0
 -   Remove Ubuntu 22.10 support
 
 ## 8.1.0 - 2023-06-23
 
-### Major Changes
-
 -   Support Ansible community package 8.1.0
 
 ## 8.0.0 - 2023-06-17
-
-### Major Changes
 
 -   Remove Ubuntu 18.04 support
 -   Remove Debian 10 support
@@ -45,20 +36,14 @@
 
 ## 7.6.0 - 2023-05-24
 
-### Major Changes
-
 -   Support Ansible community package 7.6.0
 
 ## 7.5.0 - 2023-05-16
-
-### Major Changes
 
 -   Remove Fedora 36 support
 -   Support Fedora 38
 
 ## 7.4.0 - 2023-03-29
-
-### Major Changes
 
 -   Support Ansible community package 7.4.0
 -   Support Ubuntu 23.04
@@ -67,29 +52,19 @@
 
 -   Support Ansible community package 7.3.0
 
-### Major Changes
-
 ## 7.2.0 - 2023-02-01
 
 -   Support Ansible community package 7.2.0
 
-### Major Changes
-
 ## 7.1.0 - 2022-12-09
-
-### Major Changes
 
 -   Support Ansible community package 7.1.0
 
 ## 7.0.0 - 2022-11-26
 
-### Major Changes
-
 -   Support Ansible community package 7.0.0
 
 ## 6.6.0 - 2022-11-10
-
-### Major Changes
 
 -   Support Ansible community package 6.6.0
 -   Remove Fedora 35 support
@@ -99,26 +74,19 @@
 
 -   Support Ansible community package 6.5.0
 
-### Major Changes
-
 -   Support Ubuntu 22.10
+
 -   Support Fedora 37
 
 ## 6.4.0 - 2022-09-15
-
-### Major Changes
 
 -   Support Ansible community package 6.4.0
 
 ## 6.3.0 - 2022-08-24
 
-### Major Changes
-
 -   Support Ansible community package 6.3.0
 
 ## 6.2.0 - 2022-08-03
-
-### Major Changes
 
 -   Support Ansible community package 6.2.0
 
@@ -126,33 +94,23 @@
 
 ## 6.1.0 - 2022-07-14
 
-### Major Changes
-
 -   Support Ansible community package 6.1.0
 -   Remove Ubuntu 21.10 support
 
 ## 6.0.0 - 2022-06-22
 
-### Major Changes
-
 -   Support Ansible community package 6.0.0
 
 ## 5.9.0 - 2022-06-08
-
-### Major Changes
 
 -   Support Ansible community package 5.9.0
 
 ## 5.8.0 - 2022-05-20
 
-### Major Changes
-
 -   Support Ansible community package 5.8.0
 -   Remove Fedora 34 support
 
 ## 5.7.0 - 2022-04-27
-
-### Major Changes
 
 -   Rename Ansible Role with FQCN
 -   Support Ansible community package 5.7.0
@@ -162,8 +120,6 @@
 
 ## 5.6.0 - 2022-04-07
 
-### Major Changes
-
 -   Support Ansible community package 5.6.0
 -   Support Fedora 36
 -   Support Ubuntu 22.04
@@ -172,8 +128,6 @@
 
 ## 5.5.0 - 2022-02-11
 
-### Major Changes
-
 -   Remove Ubuntu 21.04 support
 -   Skip package upgrade before running molecule
 -   Support Fedora Rawhide
@@ -181,14 +135,10 @@
 
 ## 5.4.0 - 2021-12-31
 
-### Major Changes
-
 -   Remove openSUSE Leap 15.2 support
 -   Upgrade minimal Ansible community package support to 4.10
 
 ## 5.3.0 - 2021-10-20
-
-### Major Changes
 
 -   Remove Fedora 33 support
 -   Remove Ubuntu 20.10 support
@@ -198,14 +148,10 @@
 
 ## 5.2.0 - 2021-09-19
 
-### Major Changes
-
 -   Install dependencies with package manager
 -   Upgrade minimal Ansible community package support to 4.5.0
 
 ## 5.1.0 - 2021-07-18
-
-### Major Changes
 
 -   Upgrade minimal Ansible community package support to 4.2.0
 -   Support Debian 11
