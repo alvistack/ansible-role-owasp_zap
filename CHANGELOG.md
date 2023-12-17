@@ -84,9 +84,7 @@
 ## 6.5.0 - 2022-10-14
 
 -   Support Ansible community package 6.5.0
-
 -   Support Ubuntu 22.10
-
 -   Support Fedora 37
 
 ## 6.4.0 - 2022-09-15
@@ -100,7 +98,6 @@
 ## 6.2.0 - 2022-08-03
 
 -   Support Ansible community package 6.2.0
-
 -   Revamp manually download related with OBS repo
 
 ## 6.1.0 - 2022-07-14
