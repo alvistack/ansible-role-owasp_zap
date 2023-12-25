@@ -22,9 +22,7 @@
     - name: include role
       ansible.builtin.include_role:
         name: alvistack.flatpak
-      tags: alvistack.flatpak
 
     - name: include role
       ansible.builtin.include_role:
         name: alvistack.owasp_zap
-      tags: alvistack.owasp_zap
