@@ -2,6 +2,10 @@
 
 ## 11.2.0 - TBC
 
+- Remove Debian 11 support
+- Remove openSUSE Leap 15.5 support
+- Remove Fedora 39 support
+
 ## 11.1.0 - 2024-12-04
 
 - Support Ansible community package 11.1.0
