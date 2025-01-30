@@ -1,6 +1,8 @@
 # Ansible Role for OWASP ZAP
 
-## 11.2.0 - TBC
+## 11.3.0 - TBC
+
+## 11.2.0 - 2025-01-30
 
 - Remove Debian 11 support
 - Remove openSUSE Leap 15.5 support
