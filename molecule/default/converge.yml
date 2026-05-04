@@ -24,4 +24,4 @@
 
     - name: include role
       ansible.builtin.include_role:
-        name: alvistack.owasp_zap
+        name: alvistack.flatpak_owasp_zap

@@ -1,4 +1,4 @@
-# Ansible Role for OWASP ZAP
+# Ansible Role for OWASP ZAP with Flatpak
 
 ## 13.6.0 - TBC
 

@@ -15,10 +15,10 @@
 # limitations under the License.
 
 galaxy_info:
-  role_name: owasp_zap
+  role_name: flatpak_owasp_zap
   namespace: alvistack
   author: Wong Hoi Sing Edison <hswong3i@pantarei-design.com>
-  description: Ansible Role for OWASP ZAP Installation
+  description: Ansible Role for OWASP ZAP with Flatpak
   company: PantaRei Design
   license: Apache-2.0
   min_ansible_version: "4.10"
